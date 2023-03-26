@@ -1,3 +1,3 @@
 # camera_app
 
-[Take Picture with Camera Using Flutter](https://youtu.be/F1djGmAKvRo)
+[Take a picture using the camera](https://docs.flutter.dev/cookbook/plugins/picture-using-camera)
